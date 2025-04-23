@@ -14,3 +14,4 @@
 - git/github best practices [link](/convention/GitConvention.md)
 - rust best practices [link](/convention/RustConvention.md)
 - KMP best practices [link](/convention/KMPConvention.md)
+- vue3 best practices [link](/convention/VueConvention.md)
