@@ -1,17 +1,19 @@
-# Welcome to my GitHub profile
+<div align="center">
 
-- 🔭 I’m currently working on vue3+express project.
-- 🌱 I’m currently learning Python, Rust, Kotlin, and Vue. I'm fascinated by the diverse capabilities these languages offer, from Python's versatility in data science to Rust's memory - safe systems programming, Kotlin's efficiency in Android development, and Vue's simplicity in building user interfaces.
-- 👯 I’m looking to collaborate on projects related to Python, Rust, Kotlin, or Vue. I believe that learning together with like - minded peers can accelerate our growth and bring new perspectives to our understanding of these technologies. Whether it's a small open - source project or a study group, I'm eager to share ideas and learn from others.
-- 🤔 I’m looking for help with full - stack projects related to operating systems, Android app development, and cross - platform development. I'm facing challenges in understanding the underlying principles of operating systems and integrating different components in Android and cross - platform projects. Any guidance, resources, or code reviews would be greatly appreciated.
-- 💬 Ask me about Python programming techniques, Rust syntax, Kotlin Android app architecture, or Vue component design. I'd be happy to discuss these topics and share my learning experiences.
-- 📫 How to reach me: You can find me on GitHub and other developer communities with the username [guangyiliushan].
-- 😄 Pronouns: guang
-- ⚡ Fun fact: I once spent an entire weekend building a 8-bit cpu in Turing Complete games. It was a fun experience and I learned a lot about computer architecture and game development.
+![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=18&pause=1200&color=667EEA&center=true&vCenter=true&width=640&height=40&lines=Hi%2C+I%27m+guangyiliushan;shipping+compilers+%C2%B7+KMP+%C2%B7+full-stack;open+to+full-stack+%2F+AI-agent+internships+%E2%80%94+available+now)
 
-## My Conventions
+</div>
 
-- git/github best practices [link](/convention/GitConvention.md)
-- rust best practices [link](/convention/RustConvention.md)
-- KMP best practices [link](/convention/KMPConvention.md)
-- vue3 best practices [link](/convention/VueConvention.md)
+**🔭 Now building** — [starry](https://github.com/guangyiliushan/starry): pure-std Rust compiler for a C/C++-compatible multi-paradigm language, zero unsafe · [cadmus](https://github.com/guangyiliushan/cadmus): formal-semantics experiments on operator algebra & measure semantics, no neural nets · [rebecca](https://github.com/guangyiliushan/rebecca): local-first immersion learning — English via English, Japanese via Japanese (Compose Multiplatform: Android/iOS/Web/Desktop + Ktor) · [web-lair](https://github.com/guangyiliushan/web-lair): SvelteKit blog platform — rich Markdown editor, admin post management, Better Auth (passkey/GitHub), PostgreSQL via Drizzle, en/zh-CN/ja i18n · [momotaro](https://github.com/guangyiliushan/momotaro): local-first STEM research workbench — deterministic Tantivy retrieval, traceable AI answers, human-annotated notes; humans author, agents assist, every answer verifiable
+
+**📦 Also shipped** — [lilith](https://github.com/guangyiliushan/lilith) RISC-V OS in Rust · [ktvm](https://github.com/guangyiliushan/ktvm) Kotlin VM on JDK 25 · [PaperSearchAgent](https://github.com/guangyiliushan/PaperSearchAgent) local literature-search agent · [mduml](https://github.com/guangyiliushan/mduml) Markdown + PlantUML/Kroki/Mermaid renderer & VS Code extension
+
+<div align="center">
+
+[![My Skills](https://skillicons.dev/icons?i=rust,python,kotlin,java,ts,vue,react,nodejs,express,spring,fastapi,svelte,docker,linux,git,gradle&perline=16&theme=dark)](https://skillicons.dev)
+
+</div>
+
+**💬 Ask me about** Rust compiler internals, Kotlin/KMP, or full-stack architecture · **🤝 Open to collaborate on** compilers, OS, cross-platform & agent projects — code reviews welcome · **⚡ Fun fact:** I once spent an entire weekend building an 8-bit CPU in Turing Complete
+
+**📫 Reach me:** [@guangyiliushan](https://github.com/guangyiliushan) — GitHub is the fastest way · **📚 Conventions:** [Git](/convention/GitConvention.md) · [Rust](/convention/RustConvention.md) · [KMP](/convention/KMPConvention.md) ![views](https://komarev.com/ghpvc/?username=guangyiliushan&color=667eea&style=flat&label=views)
